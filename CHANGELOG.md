@@ -12,12 +12,6 @@ OKF spec version it supports.
   remembered per browser (`localStorage`). The graph re-runs the selected layout
   when a drag ends and when the window resizes, so it fills the new space.
 
-### Fixed
-- **Graph controls no longer cover the detail panel.** The title, search,
-  filters and legend now live inside the graph area, and the title and controls
-  wrap onto two rows when the graph area is narrow. Before, the centered search
-  bar overlapped the panel and hid its first line on narrow windows.
-
 ## [0.10.3] - 2026-10-13
 
 ### Added
